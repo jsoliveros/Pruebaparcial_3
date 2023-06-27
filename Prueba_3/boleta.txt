@@ -1,0 +1,1 @@
+{'Nombre': ['JORGE', 'NICOLAS'], 'Pelicula': ['SPIDER', 'SPIDER'], 'Entradas': ['1', '1'], 'Fila': ['A', 'A'], 'Columna': ['1', '2'], 'Alumno': ['SI', 'NO']}
